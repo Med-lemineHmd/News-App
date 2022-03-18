@@ -37,7 +37,7 @@ function SideBar({ showSideBar }) {
     >
       <div className="flex justify-center flex-col ml-10">
         <h1 className="text-2xl font-bold mt-6  text-gray-400 ">
-          SHEY
+          HMD
         </h1>
         <span className="text-gray-400 text-sm">News Portal</span>
       </div>
